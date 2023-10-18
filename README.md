@@ -4,14 +4,14 @@
 <br>
 
 <p align="center">
-  <Strong> ☁️ SNS List ☁️ </strong><br><br>
+  <!--<Strong> ☁️ SNS List ☁️ </strong><br><br>
   <a href="https://instagram.com/whgudals_?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="https://blog.naver.com/zzz659" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75AF?style=flat&logo=naver&logoColor=white"/></a>
   <a href="https://velog.io/@hyeongmin" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/></a>
-  <br>
+  --><br>
   <br>
   <Strong> 📧 Email 📧 </Strong><br><br>
-  <a href="mailto:jbh2603@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jbh2603@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:zzz659@naver.com" target="_blank"><img src="https://img.shields.io/badge/zzz659@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <br>
   <br>
 </p>
